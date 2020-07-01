@@ -1,0 +1,32 @@
+Landing page
+Description:
+- Menu type A:
+Content: Login, Register, About Woofyou (description info), Contact, Reviews (review list of users), Questions (most common questions issues), Support (Guide of how to use the webpage)
+- Carrousel:
+Content: a carrousel of dogs register in the webpage.
+- Block content:
+Content: Contacts info, Footer, reviews
+- External content:
+Content:Support, Question
+
+User landing page
+Description:
+- Menu type B
+Content: Logout, myprofile (edit user profile info), match (search form), contact , support, questions, footer.
+- Carrousel
+Content: list of images related to the user match search. 
+- Match history
+Content: display info history of matches done.
+Chat history : display info history of chat done (people).
+- Block contents: Contact, footer
+-External content:
+Content: Match, Match history, Chat History
+
+Match page
+Description:
+Content:
+- Menu type A (look at user landing photo)
+- Search box
+Content : A filter to search the dog type
+- Image landing
+Content : Image (shows a carrousel of the images found), vertical button (next/before photo), horizontal button (icons : like, see profile).
